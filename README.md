@@ -1,0 +1,1 @@
+# wfda-angular-change-font-size
